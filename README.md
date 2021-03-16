@@ -1,7 +1,8 @@
 # spices
 
-# Added photo in Markup format
+
 ![Imelda Marcos](Here_Lies_Love.jpg)
+photo of Imelda Marcos (added in markdown format)
 
 ## These are some spices
 
